@@ -4,7 +4,7 @@ An android application to guide the travellers to plan a wonderful trip to their
 Kotlin, Jetpack Compose, Android studio
 
 ### Screenshots
-![WhatsApp Image 2023-11-09 at 18 41 17](https://github.com/Preeti8021/Travel_Guru/assets/103981488/22eeb6bd-5a27-4702-bb7c-ab70b81ebb42)
+![Login page]([url-to-image](https://github.com/Preeti8021/Travel_Guru/assets/103981488/22eeb6bd-5a27-4702-bb7c-ab70b81ebb42)https://github.com/Preeti8021/Travel_Guru/assets/103981488/22eeb6bd-5a27-4702-bb7c-ab70b81ebb42){: height="40%" }
 ![WhatsApp Image 2023-11-09 at 18 41 18 (1)](https://github.com/Preeti8021/Travel_Guru/assets/103981488/92578b2f-ff52-49c5-8841-58729befcaa2)
 ![WhatsApp Image 2023-11-09 at 18 41 18](https://github.com/Preeti8021/Travel_Guru/assets/103981488/bb580e19-2aeb-4b4a-9e89-f7d3b6a66c60)
 ![WhatsApp Image 2023-11-09 at 18 41 19 (1)](https://github.com/Preeti8021/Travel_Guru/assets/103981488/e4c5a49f-8f56-4755-89a6-6484829d272f)
